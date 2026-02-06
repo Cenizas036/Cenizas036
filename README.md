@@ -64,9 +64,3 @@ Concepts:         DSA | Algorithms | System Administration (RH124)
 
 > **“Code, Create, Conquer.”**
 
-```
-
-
-
-Just say the word.
-```
