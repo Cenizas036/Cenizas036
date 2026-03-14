@@ -225,12 +225,9 @@ Dart
 </p>
 
 ---
+## 🐍 Contribution Snake
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Cenizas036/Cenizas036/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://raw.githubusercontent.com/Cenizas036/Cenizas036/output/github-contribution-grid-snake.svg)
 
 </p>
 
