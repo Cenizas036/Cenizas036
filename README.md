@@ -223,12 +223,9 @@ Dart
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Cenizas036/Cenizas036/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🎯 Current Focus
 
