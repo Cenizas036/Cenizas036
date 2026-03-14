@@ -208,7 +208,7 @@ Dart
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cenizas036&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Cenizas036&theme=algolia&row=1&column=7"/>
 
 </p>
 
