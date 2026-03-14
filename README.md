@@ -15,7 +15,7 @@
 
 🎓 **B.Tech – Computer Science & Communication Engineering**  
 KIIT University, Bhubaneswar (2023-2027)  
-CGPA: **8.13**
+
 
 💻 Passionate about building **real world software systems**
 
@@ -236,13 +236,16 @@ Dart
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-⚡ Machine Learning  
-⚡ Backend Development  
-⚡ Flutter Apps  
-⚡ Cybersecurity  
-⚡ Linux Systems
+🚀 AI & Machine Learning Systems  
+🧠 Computer Vision with OpenCV  
+⚙️ Backend Development (FastAPI / Python)  
+📱 Flutter Mobile Applications  
+🧩 Data Structures & Graph Algorithms  
+🐧 Linux Systems & Bash Automation  
+🔐 Cybersecurity & Authentication Systems  
+🧱 Scalable API Architecture
 
 ---
 
