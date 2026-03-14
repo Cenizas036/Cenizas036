@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sanket Sharma</h1>
 
 <h3 align="center">Computer Science Student • Developer • AI & Systems Enthusiast</h3>
@@ -14,8 +13,7 @@
 ## 👨‍💻 About Me
 
 🎓 **B.Tech – Computer Science & Communication Engineering**  
-KIIT University, Bhubaneswar (2023-2027)  
-
+KIIT University, Bhubaneswar (2023-2027)
 
 💻 Passionate about building **real world software systems**
 
@@ -225,11 +223,10 @@ Dart
 </p>
 
 ---
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Cenizas036/Cenizas036/output/github-contribution-grid-snake.svg)
-
-</p>
 
 ---
 
